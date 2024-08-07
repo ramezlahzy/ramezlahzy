@@ -33,7 +33,7 @@ I have extensive expertise in ReactJS and backend development, having collaborat
 I expert in problem-solving on websites such as LeetCode and Codeforces, having successfully solved approximately 1000 problems 
 
 - [CodeForces](https://codeforces.com/profile/Ramez__) : 684 problems solved, 80 contests, __Rating 1657__
--  [ICPC](https://icpc.global/ICPCID/I8VPDK4EVJI0):
+- -  [ICPC](https://icpc.global/ICPCID/I8VPDK4EVJI0):
   - **2024:**
     - Placed 7th in the 2023 ICPC ECPC Qualifications Collegiate Programming Contest
     - Ranked 94th in the 2023 ICPC Egyptian Collegiate Programming Contest
