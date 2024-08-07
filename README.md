@@ -16,7 +16,7 @@ Had to put this first, because, well, you know how it is... HR folks are the rea
 ### 👉🏻 [My Resume](http://tiny.cc/ramezCV) 👈🏻 
 
 ## Wanna reach me? 💬
-- Wanna have a chat? Ask me anything? Don't hesitate to DM me on WhatsApp 👉🏻 `+20 128 789 5377`
+- Wanna have a chat? Ask me anything? Don't hesitate to DM me on WhatsApp 👉🏻 `+20 1550575832`
 - Prefer to be more professional? Email me 👉🏻 [rameznashaat9999@gmai.com](mailto:rameznashaat9999@gmail.com) or let's connect on [LinkedIn](https://www.linkedin.com/in/ramez-lahzy-37188021a/)
 
 ## Who am I, anyway? 🙋
