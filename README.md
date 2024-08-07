@@ -35,12 +35,10 @@ I expert in problem-solving on websites such as LeetCode and Codeforces, having 
 - [CodeForces](https://codeforces.com/profile/Ramez__) : 684 problems solved, 80 contests, __Rating 1657__
 - - [ICPC](https://icpc.global/ICPCID/I8VPDK4EVJI0):
   - **2024:**
-    - Placed 7th in the [2023 ICPC ECPC Qualifications Collegiate Programming Contest](https://icpc.global/ICPCID/I8VPDK4EVJI0) (Team: Hugs4Bugs, GUC).
-    - Ranked 94th in the [2023 ICPC Egyptian Collegiate Programming Contest](https://icpc.global/ICPCID/I8VPDK4EVJI0) (Team: Hugs4Bugs, GUC).
-
+    - Placed 7th in the 2023 ICPC ECPC Qualifications Collegiate Programming Contest
+    - Ranked 94th in the 2023 ICPC Egyptian Collegiate Programming Contest
   - **2023:**
-    - Achieved 41st place in the [2022 ICPC ECPC Qualifications Collegiate Programming Contest](https://icpc.global/ICPCID/I8VPDK4EVJI0) (Team: Hugs4Bugs).
-
+    - Achieved 41st place in the 2022 ICPC ECPC Qualifications Collegiate Programming Contest
   - **2022:**
-    - Received an Honorable Mention by ranking 21st in the [2021 ICPC GUC Collegiate Programming Contest](https://icpc.global/ICPCID/I8VPDK4EVJI0) (Team: Dark Warriors).
+    - Received an Honorable Mention by ranking 21st in the 2021 ICPC GUC Collegiate Programming Contest
 
