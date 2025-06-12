@@ -1,30 +1,45 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Software+Engineer;AWS+Cloud+Architect;Mobile+Development+Expert;Machine+Learning+Enthusiast;Competitive+Programming+Specialist" alt="Professional Developer Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=70&lines=Senior+Full-Stack+Engineer;Competitive+Programming+Expert;AWS+Cloud+Architect;Mobile+%26+Web+Specialist;Problem+Solving+Champion;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/ramezlahzy/ramezlahzy/blob/main/assets/banner.gif" alt="Professional Banner" width="100%" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" />
 </div>
 
 # 🚀 Ramez Nashaat | Senior Software Engineer
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](http://tiny.cc/ramezCV)
+*Building the future, one commit at a time*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white)](http://tiny.cc/ramezCV)
+[![CV/Resume](https://img.shields.io/badge/📄_Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ramezlahzy/professional-cv/releases/latest/download/Ramez_Nashaat_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-lahzy-37188021a/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameznashaat9999@gmail.com)
 [![Codeforces](https://img.shields.io/badge/🏆_Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ramez__)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramezlahzy)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550575832)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramezlahzy&style=for-the-badge&color=2F81F7)
-![Years Badge](https://badges.pufler.dev/years/ramezlahzy?style=for-the-badge&color=2F81F7)
-![Repos Badge](https://badges.pufler.dev/repos/ramezlahzy?style=for-the-badge&color=2F81F7)
+![Profile Views](https://komarev.com/ghpvc/?username=ramezlahzy&style=for-the-badge&color=FF6B6B)
+![GitHub Followers](https://img.shields.io/github/followers/ramezlahzy?style=for-the-badge&color=4CAF50)
+![GitHub Stars](https://img.shields.io/github/stars/ramezlahzy?style=for-the-badge&color=FFC107)
+![CV Updated](https://img.shields.io/github/release-date/ramezlahzy/professional-cv?style=for-the-badge&label=CV%20Updated&color=9C27B0)
 
 </div>
 
 ## 🎯 Executive Summary
 
-> **Senior Full-Stack Engineer** with 4+ years of experience building scalable applications and leading technical initiatives. Specialized in **React ecosystem**, **AWS cloud architecture**, and **mobile development**. Proven track record of delivering enterprise-grade solutions with **12+ successful client projects** and **1000+ competitive programming problems solved**.
+> **Senior Full-Stack Engineer** with 4+ years of experience building scalable applications and leading technical initiatives. Specialized in **React ecosystem**, **AWS cloud architecture**, and **mobile development**. Proven track record of delivering enterprise-grade solutions with **25+ successful client projects** and **1000+ competitive programming problems solved**.
+
+<div align="center">
+
+### 📄 **Professional CV/Resume**
+
+[![Download CV](https://img.shields.io/badge/📄_Download_Latest_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ramezlahzy/professional-cv/releases/latest/download/Ramez_Nashaat_CV.pdf)
+[![View CV Repository](https://img.shields.io/badge/📂_CV_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramezlahzy/professional-cv)
+
+*Professional LaTeX CV with automated PDF generation • Always up-to-date • ATS Optimized*
+
+</div>
 
 <div align="center">
 
@@ -391,25 +406,31 @@ struct Competitor {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="mailto:rameznashaat9999@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br><strong>Direct Communication</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://www.linkedin.com/in/ramez-lahzy-37188021a/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><strong>Professional Network</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="http://tiny.cc/ramezCV">
 <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/>
 </a>
-<br><strong>Live Resume</strong>
+<br><strong>Live Portfolio</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<a href="https://github.com/ramezlahzy/professional-cv/releases/latest/download/Ramez_Nashaat_CV.pdf">
+<img src="https://img.shields.io/badge/📄_Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+<br><strong>Professional CV</strong>
+</td>
+<td align="center" width="20%">
 <a href="https://wa.me/201550575832">
 <img src="https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
@@ -482,7 +503,19 @@ Ideal Collaborations:
 
 **🚀 Ready to build the future together? Let's connect and create something extraordinary! ✨**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+🌱" alt="Footer Message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=30&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+🌱;Open+to+new+opportunities!" alt="Footer Message" />
+
+### 📊 **Profile Stats & Activity**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramezlahzy&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🚀%20Keep%20Coding%20🚀&fontSize=16&fontAlignY=65&desc=Building%20tomorrow's%20technology%20today&descAlignY=50&descAlign=50" width="100%"/>
 
 </div>
 
