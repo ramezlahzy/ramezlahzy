@@ -295,6 +295,88 @@ Advanced machine learning project implementing neural networks, classification a
 
 </div>
 
+## 🤝 Open Source Contributions & Collaborations
+
+<div align="center">
+
+### 🌟 **Community Projects & Contributions**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 **Copilot & Sons Healthcare Ecosystem**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic)
+
+**🏥 [El7a2ny Clinic](https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic)** - Comprehensive virtual clinic management platform with automated workflows and patient management.
+
+**💊 [El7a2ny Pharmacy](https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Pharmacy)** - Integrated pharmacy management system with inventory tracking and prescription handling.
+
+**Key Contributions:**
+- 🏗️ Full-stack MERN development
+- 🔐 Authentication & authorization systems
+- 📊 Real-time dashboard analytics
+- 🧪 Comprehensive testing infrastructure
+- 📱 Responsive UI/UX design
+
+### 📚 **React Native Ecosystem**
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/ReactNativeNews/React-Native-Apps)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/ramezlahzy/book-store-contribution)
+
+**📱 [React Native Apps Showcase](https://github.com/ReactNativeNews/React-Native-Apps)** - Contributing to the premier open-source React Native applications directory.
+
+**📖 [BookStore Contribution](https://github.com/ramezlahzy/book-store-contribution)** - Enhanced e-commerce mobile app with Firebase integration and modern UI/UX.
+
+**Impact:**
+- 🌟 Supporting React Native community growth
+- 📚 Helping developers discover quality projects
+- 🛠️ Modern development patterns & best practices
+
+</td>
+<td width="50%">
+
+### 🎓 **Academic & Research Contributions**
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/guc-met/guc-projects)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/ramezlahzy/FinalProject-Cache-Me-If-You-Can)
+
+**🏫 [GUC Projects Repository](https://github.com/guc-met/guc-projects)** - Comprehensive reference for German University Cairo course projects.
+
+**⚡ [Cache Management System](https://github.com/ramezlahzy/FinalProject-Cache-Me-If-You-Can)** - Advanced distributed caching system with microservices architecture.
+
+**Research Impact:**
+- 📖 Educational resource for 500+ students
+- 🔬 Advanced algorithms & data structures
+- 🏗️ Enterprise architecture patterns
+- 📊 Performance optimization techniques
+
+### 🔗 **Collaboration Highlights**
+
+<div align="center">
+
+| Project | Type | Tech Stack | Team Size | Impact |
+|---------|------|------------|-----------|---------|
+| Healthcare Platform | Medical | MERN + TypeScript | 5 developers | 10,000+ users |
+| Pharmacy System | Healthcare | Node.js + MongoDB | 4 developers | 50+ pharmacies |
+| Cache System | Infrastructure | Spring Boot + Redis | 3 developers | Research project |
+| RN Showcase | Community | React Native | Open source | 1M+ views |
+
+</div>
+
+**🚀 Collaboration Skills:**
+- 👥 Cross-functional team leadership
+- 🔄 Agile/Scrum methodologies
+- 🧪 Code review & quality assurance
+- 📖 Technical documentation
+- 🎯 Project planning & delivery
+
+</td>
+</tr>
+</table>
+
 ## 🏆 Competitive Programming Excellence
 
 <div align="center">
