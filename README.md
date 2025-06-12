@@ -14,8 +14,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white)](http://tiny.cc/ramezCV)
 [![CV/Resume](https://img.shields.io/badge/📄_Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ramezlahzy/professional-cv/releases/latest/download/Ramez_Nashaat_CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-lahzy-37188021a/)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameznashaat9999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-lahzy-68727a33b/)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahzyramez@gmail.com)
 [![Codeforces](https://img.shields.io/badge/🏆_Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ramez__)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550575832)
 
@@ -206,6 +206,22 @@ const ramezNashaat = {
 <table>
 <tr>
 <td width="50%">
+
+### 🏗️ **Enterprise Microservices Platform**
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/ramezlahzy/FinalProject-29-Cache_Me_If_You_Can)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/ramezlahzy/FinalProject-29-Cache_Me_If_You_Can)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/ramezlahzy/FinalProject-29-Cache_Me_If_You_Can)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://github.com/ramezlahzy/FinalProject-29-Cache_Me_If_You_Can)
+
+Distributed social platform with 4-microservice architecture, featuring advanced caching strategies, message queuing, and container orchestration.
+
+**Architecture:**
+- 🏗️ 4 Spring Boot microservices
+- 🚀 Nginx API Gateway with load balancing  
+- ⚡ Redis distributed caching (4 databases)
+- 📨 RabbitMQ event-driven messaging
+- 🐳 Docker & Kubernetes deployment
+- 📊 PostgreSQL & MongoDB data stores
 
 ### 📚 **BookStore - React Native App**
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/ramezlahzy/BookStore)
@@ -407,13 +423,13 @@ struct Competitor {
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="mailto:rameznashaat9999@gmail.com">
+<a href="mailto:lahzyramez@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br><strong>Direct Communication</strong>
 </td>
 <td align="center" width="20%">
-<a href="https://www.linkedin.com/in/ramez-lahzy-37188021a/">
+<a href="https://www.linkedin.com/in/ramez-lahzy-68727a33b/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><strong>Professional Network</strong>
